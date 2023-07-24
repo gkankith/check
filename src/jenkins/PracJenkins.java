@@ -1,7 +1,7 @@
 package jenkins;
 
 public class PracJenkins {
-	//pull back
+	//push back
 	
 	public static void main(String[] args) {
 		
