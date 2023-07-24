@@ -5,12 +5,10 @@ public class PracJenkins {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("hello");
+
+		System.out.println("pragya");
+
 		System.out.println("welcome");
-
-		System.out.println("push from another");
-
-		System.out.println("done");
 
 	}
 	
