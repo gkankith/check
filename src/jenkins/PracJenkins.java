@@ -1,13 +1,17 @@
 package jenkins;
 
 public class PracJenkins {
-	//push back
+	//push from system eclipse
 	
 	public static void main(String[] args) {
 		
 		System.out.println("hello");
 		System.out.println("welcome");
+
 		System.out.println("push from another");
+
+		System.out.println("done");
+
 	}
 	
 }
