@@ -7,6 +7,7 @@ public class PracJenkins {
 		
 		System.out.println("hello");
 		System.out.println("welcome");
+		System.out.println("push from another");
 	}
 	
 }
