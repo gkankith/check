@@ -1,7 +1,7 @@
 package jenkins;
 
 public class PracJenkins {
-	//push from system eclipse
+	
 	
 	public static void main(String[] args) {
 		
