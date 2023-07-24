@@ -8,7 +8,7 @@ public class PracJenkins {
 		System.out.println("ankith");
 		System.out.println("welcome");
 
-		System.out.println("hey");
+	
 
 		
 	}
